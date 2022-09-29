@@ -68,4 +68,4 @@ def get_selected_attribute(df):
             column=attribute
             maxi_gain=temp
         info[attribute]=temp
-    return (info,column)
+    return (info,column) #week 3
